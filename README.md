@@ -1,3 +1,3 @@
-# CC_LAB2
+# CC_LAB2 - MONOLITHIC ARCHITECTURE
 ## Name : Shreya Ammalajeri 
 ## SRN : PES2UG23CS559
